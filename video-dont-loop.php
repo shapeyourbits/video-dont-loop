@@ -1,9 +1,14 @@
 <?php
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 /**
  * Plugin Name: Video Don't Loop
+ * Plugin URI: https://www.shapeyourbits.co.uk/plugins/video-no-loop/
  * Description: Removes the loop attribute from videos inside a core Cover block when the block has "noloop" CSS class in the Additional CSS class(es).
  * Version: 1.0.0
- * Author: Shape Your Bits
+ * Author: ShapeYourBits
+ * Author URI: https://www.shapeyourbits.co.uk/
+ * Text Domain: video-dont-loop
+ * License: GPL2
  */
 
 add_filter( 'render_block_core/cover', function ( $block_content ) {
