@@ -6,6 +6,7 @@ Plugin URI: https://www.shapeyourbits.co.uk/plugins/video-no-loop/
 Tags: Cover Block, Video, Don't Loop, No Loop, No Looping
 Donate link: https://www.shapeyourbits.co.uk/
 Requires at least: 5.7
+Requires PHP: 8.0
 Tested up to: 6.7
 Stable tag: 1.0.0
 License: GPLv2 or later
