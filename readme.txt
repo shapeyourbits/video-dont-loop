@@ -1,4 +1,4 @@
-=== Video Don't Loop ===
+=== SYB - Video Don't Loop for Cover Block ===
 Contributors: ShapeYourBits
 Author: ShapeYourBits
 Author URI: https://www.shapeyourbits.co.uk/
@@ -32,13 +32,13 @@ No settings page, no configuration needed. Lightweight and focused on doing one 
 = To install the plugin automatically: =
 
 * Through WordPress admin, use the menu: Plugin > Add new
-* Search for Video Don't Loop
+* Search for SYB - Video Don't Loop for Cover Block
 * Click on install then click activate link
 
 = To install the plugin manually: =
 
-* Download and unzip the plugin video-dont-loop.zip
-* Upload /video-dont-loop/ to the /wp-content/plugins/ directory
+* Download and unzip the plugin syb-video-dont-loop-for-cover-block.zip
+* Upload /syb-video-dont-loop-for-cover-block/ to the /wp-content/plugins/ directory
 * Activate the plugin through the 'Plugins' screen in WordPress
 * Refer to the How to Use section to turn off looping for a specific Cover block.
 
